@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meneş İnce</h1>
 <h3 align="center">On the way to becoming an Android Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin** and **Python**
+- 🌱 I’m currently learning **Kotlin** and **Flutter**
 
 - 📫 How to reach me **inceem01@gmail.com**
 
